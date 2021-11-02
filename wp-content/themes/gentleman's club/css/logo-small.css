@@ -1,0 +1,67 @@
+  /* #logo {
+    z-index: 2;
+} */
+@media (max-width: 768px) {
+
+    #header {
+  
+        justify-content: space-between;
+        
+        /* z-index: 2; */
+      }
+  
+      #logo-img {
+        transform: translate(-30px);
+      }
+  
+  
+  }
+  
+  #logo-text {
+      transition: .5s;
+      font-size: 30px;
+      visibility: hidden;
+      font-family: 'Roboto Slab', sans-serif;
+      height: 0;
+    }
+  
+    @media (max-width: 768px) {
+      #logo-text {
+          height: 0;
+          transition: .2s;
+          font-family: 'Roboto Slab', sans-serif;
+        }
+    }
+  
+    #logo-text p {
+      margin: 0;
+    }
+  
+    #logo-img {
+        width: 140px;
+      transition: .5s;
+
+      
+      
+    }
+  
+    #logo-img img {
+      width: 140px;
+      /* transition: 0.2s; */
+      box-shadow: 0 0 2vw rgba(0,0,0,.2);
+    }
+
+    @media (max-width: 768px) {
+      #logo-img {
+        width: 100px;
+      
+    }
+      #logo-img img  {
+        width: 100px;
+        }
+    }
+
+  
+    /* #logo-img img {
+      width: 150px;
+    } */

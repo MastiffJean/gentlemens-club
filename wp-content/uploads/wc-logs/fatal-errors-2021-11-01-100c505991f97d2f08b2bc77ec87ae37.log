@@ -1,0 +1,6 @@
+2021-11-01T00:46:52+00:00 CRITICAL syntax error, unexpected end of file в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\functions.php на строке 163
+
+2021-11-01T01:56:26+00:00 CRITICAL syntax error, unexpected 'type' (T_STRING), expecting ';' or ',' в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\functions.php на строке 22
+
+2021-11-01T01:58:27+00:00 CRITICAL syntax error, unexpected 'type' (T_STRING), expecting ';' or ',' в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\functions.php на строке 22
+

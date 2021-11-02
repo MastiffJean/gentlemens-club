@@ -1,0 +1,96 @@
+2021-10-30T16:35:40+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:38
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 38
+
+2021-10-30T22:20:42+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:38
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 38
+
+2021-10-30T22:20:46+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:38
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 38
+
+2021-10-30T22:21:39+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:38
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 38
+
+2021-10-30T22:22:41+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:47
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 47
+
+2021-10-30T22:22:42+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:47
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 47
+
+2021-10-30T22:22:43+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:47
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 47
+
+2021-10-30T22:22:44+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:47
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 47
+
+2021-10-30T22:23:53+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:62
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 62
+
+2021-10-30T22:23:57+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:62
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 62
+
+2021-10-30T22:25:28+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:62
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 62
+
+2021-10-30T22:25:42+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:38
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 38
+

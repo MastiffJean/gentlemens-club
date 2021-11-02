@@ -1,0 +1,142 @@
+.category {
+    width: 100%;
+    display: flex;
+    height: 100vh;
+    background-image: url(../img/category/bar/1.jpg);
+    background-size: cover;
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+
+.category-descr {
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 100vh;
+}
+
+.category-descr img {
+    width:100%;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+.centered {
+    position: absolute;
+    top: 0;
+    
+    display: flex;
+    width: 106%;
+    margin-left: -3%;
+    box-sizing: border-box;
+    height: 100vh;
+    transform: translate(-100%, -100%);
+    transform: skew(-5deg);
+    
+}
+
+@media (max-width: 768px) {
+
+  .centered {
+      display: flex;
+      width: 100%;
+      flex-direction: column;
+      margin-left: 0;
+      transform: skew(0);
+      
+    }
+
+    .category-content {
+      justify-content: center;
+  }
+
+  .category-description {
+
+      margin-top: 50px;
+
+  }
+
+}
+
+
+.cat-cont {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    line-height: 1.2;
+}
+
+.cat-text {
+    font-size: 50px;
+    text-shadow: 0 1vw 4vw rgba(0,0,0,.7);
+}
+
+.box1 {
+    
+    flex: 1;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 1vw 4vw rgba(0,0,0,0);
+    line-height: 0;
+    margin: 0;
+  }
+
+  .box2 {
+    background-color: rgba(0,0,0,.8);
+    flex: 1;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 1vw 4vw rgba(0,0,0,.7);
+    line-height: 0;
+    margin: 0;
+  }
+
+  .box:hover { flex: 0 0 52%; }
+  .box:hover > img {
+    width: 100%;
+    height: 100%;
+  }
+
+
+.lt .cat-text {
+  margin-left: 80px;
+  margin-right: 25px;
+    font-size: 50px;
+    text-shadow: 0 1vw 4vw rgba(0,0,0,.7);
+}
+
+.rt .cat-text {
+  margin-right: 90px;
+  margin-left: 25px;
+  font-size: 50px;
+  text-shadow: 0 1vw 4vw rgba(0,0,0,.7);
+}
+
+@media (max-width: 768px) {
+
+  .lt .cat-text {
+    margin: .5em;
+    font-size: 40px;
+  }
+  
+  .rt .cat-text {
+    margin: .5em;
+    font-size: 40px;
+  }
+
+  .lt {
+    transform: translateY(+50%);
+  }
+
+  .rt {
+    transform: translateY(-50%);
+  }
+
+}

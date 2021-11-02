@@ -1,0 +1,33 @@
+  /* #logo {
+    z-index: 2;
+} */
+
+#logo-text {
+    transition: .5s;
+    font-family: 'Roboto Slab', sans-serif;
+  }
+
+  @media (max-width: 768px) {
+    #logo-text {
+        transition: .2s;
+        font-family: 'Roboto Slab', sans-serif;
+      }
+  }
+
+  #logo-text p {
+    margin: 0;
+  }
+
+  #logo-img {
+    transition: .5s;
+    
+  }
+
+  #logo-img img {
+    /* transition: 0.2s; */
+    box-shadow: 0 0 2vw rgba(0,0,0,.2);
+  }
+
+  /* #logo-img img {
+    width: 150px;
+  } */

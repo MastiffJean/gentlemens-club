@@ -1,0 +1,40 @@
+2021-10-29T18:41:33+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:38
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 38
+
+2021-10-29T18:41:39+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:38
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 38
+
+2021-10-29T18:43:01+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:38
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 38
+
+2021-10-29T18:43:03+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:38
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 38
+
+2021-10-29T18:43:05+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php:38
+Stack trace:
+#0 C:\dev\UwAmp\www\gentlemans-club\wp-includes\template-loader.php(106): include()
+#1 C:\dev\UwAmp\www\gentlemans-club\wp-blog-header.php(19): require_once('C:\\dev\\UwAmp\\ww...')
+#2 C:\dev\UwAmp\www\gentlemans-club\index.php(17): require('C:\\dev\\UwAmp\\ww...')
+#3 {main}
+  thrown в C:\dev\UwAmp\www\gentlemans-club\wp-content\themes\gentleman's club\page-checkout.php на строке 38
+
